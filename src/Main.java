@@ -5,5 +5,9 @@ public class Main {
         System.out.println("branch1 - 2");
 
         System.out.println("branch10 - 1");
+
+        System.out.println("branch20 - 1");
+        System.out.println("branch20 - 2");
+        System.out.println("branch20 - 3");
     }
 }
