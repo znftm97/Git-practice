@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("git commit template test");
         System.out.println("slack 연동 테스트");
+        System.out.println("slack 연동 테스트2");
     }
 }
