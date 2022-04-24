@@ -11,5 +11,7 @@ public class Main {
 
         System.out.println("main branch - 4");
         System.out.println("main branch - 5");
+
+        System.out.println("git commit template test");
     }
 }
