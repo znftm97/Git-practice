@@ -3,5 +3,8 @@ public class Main {
         System.out.println("main");
 
         System.out.println("main2");
+
+        System.out.println("D-branch1");
+        System.out.println("D-branch2");
     }
 }
